@@ -1,0 +1,14 @@
+{
+  "name": "getting-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vk",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
