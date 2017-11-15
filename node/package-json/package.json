@@ -1,0 +1,17 @@
+{
+  "name": "package-json",
+  "version": "0.1.0",
+  "description": "test package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vk",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3"
+  }
+}
